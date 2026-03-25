@@ -1,7 +1,6 @@
 {
   "name": "lab-mentor-jhh",
   "version": "1.0.0",
-  "description": "Jennifer Hawks Health — Lab Mentor Functional Analysis",
   "private": true,
   "dependencies": {
     "@anthropic-ai/sdk": "^0.30.0",
